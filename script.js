@@ -14,3 +14,4 @@ const a = {
     someone: "age",
   };
   
+const mixedObj = Object.assign({}, a,b);
